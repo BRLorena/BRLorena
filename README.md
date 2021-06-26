@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I am a <strong>Junior developer</strong> with knowledge of web development and manual and automated testing.<br>
+  I am a <strong>Software Development Engineer in Test</strong> with knowledge of web development and manual and automated testing.<br>
   Working as a QA Software tester. Writing manual test cases in Gherkin, using Cucumber. For the automation, the test is programmed in PHP and frameworks like selenium and Codeception.
 </p>
 
