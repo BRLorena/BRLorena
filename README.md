@@ -2,7 +2,7 @@
 
 <p align="left"> 
   I am a <strong>Software Development Engineer in Test</strong> with knowledge of web development and manual and automated testing.<br>
-  Working as a QA Software tester. Writing manual test cases in Gherkin, using Cucumber. For the automation, the test is programmed in PHP and frameworks like selenium and Codeception.
+  Working as a QA Software tester. Writing manual test cases in Gherkin, using Cucumber. For the automation, the test is programmed in Java and frameworks like selenium, Rest Assured, Cypress.
 </p>
 
 <p align="left">
