@@ -9,7 +9,6 @@
 <strong>🚀 Skills</strong>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png" alt="c"/></code>
-<code><img height="32" src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
