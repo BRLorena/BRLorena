@@ -2,7 +2,7 @@
 
 <p align="left"> 
    I am a <strong>Software Developer in Test</strong> with knowledge of web development and manual and automated testing.<br>
-  I currently work as an automation tester. Writing manual test cases in Gherkin, using cucumber. For automation used as language Java and Python and frameworks like selenium, Rest Assured, Sikulix, Cypress.
+  I currently work as an automation tester. Writing manual test cases in Gherkin, using cucumber. For automation used as language Java and Python and frameworks like selenium, Rest Assured, Playwright, Cypress.
 </p>
 <br>
 <p align="left">
@@ -20,10 +20,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://tse1.mm.bing.net/th?id=OIP.lNxp60aHYejc9EjnScUDHgAAAA&pid=Api&P=0&w=300&h=300" alt="Laravel"/></code>
 <code><img height="32" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium"/></code>
-<code><img height="32" src="https://www.aurigait.com/resources/files/2015/06/sikuli-logo.png" alt="Sikulix"/></code>
 <code><img height="32" src="https://blog.knoldus.com/wp-content/uploads/2021/05/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415-1.png" alt="Cypress"/></code>
 <code><img height="32" src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" alt="RestAssured"/></code>
-
+   
+<code><img height="32" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Playwright"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
