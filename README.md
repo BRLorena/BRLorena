@@ -2,7 +2,8 @@
 
 <p align="left"> 
    I am a <strong>Software Developer in Test</strong> with knowledge of web development and manual and automated testing.<br>
-  I currently work as an automation tester. Writing manual test cases in Gherkin, using cucumber. For automation used as language Java and Python and frameworks like selenium, Rest Assured, Playwright, Cypress.
+   Languages: <b> Java, Python, C# and JS
+   Frameworks: Selenium, Playwright, Cypress, Cucumber, SpecFlow, NUnit, JUnit.</b>
 </p>
 <br>
 <p align="left">
