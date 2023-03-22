@@ -2,8 +2,8 @@
 
 <p align="left"> 
    I am a <strong>Software Developer in Test</strong> with knowledge of web development and manual and automated testing.<br>
-   Languages: <b> Java, Python, C# and JS
-   Frameworks: Selenium, Playwright, Cypress, Cucumber, SpecFlow, NUnit, JUnit.</b>
+   Languages: <strong> Java, Python, C# and JS </strong><br>
+   Frameworks: <strong> Selenium, Playwright, Cypress, Cucumber, SpecFlow, NUnit, JUnit.<strong> 
 </p>
 <br>
 <p align="left">
